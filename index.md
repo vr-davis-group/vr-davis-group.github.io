@@ -1,0 +1,19 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+## About
+_coming soon.._
+
+## Projects
+* Distract
+* VRAM
+
+## People
+* Jared Stokes
+* Savannah Grunden
+
+## Location
+Center for Mind and Brain
