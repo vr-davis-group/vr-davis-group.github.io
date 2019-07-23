@@ -16,7 +16,7 @@
 title: Virtual Cognition Group
 email: jdstokes@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Studying congition using virtual and augmented reality.
+  Studying cognition using virtual and augmented reality.
 #baseurl: "/test_website" # the subpath of your site, e.g. /blog
 url: "http://vr-davis-group-github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
