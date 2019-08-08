@@ -19,5 +19,5 @@ _coming soon.._
 * Bo Yeong Won
 
 ## Location
-[Center for Mind and Brain](https://mindbrain.ucdavis.edu/)
+[Center for Mind and Brain](https://mindbrain.ucdavis.edu/)  
 [Github](https://github.com/vr-davis-group/)
