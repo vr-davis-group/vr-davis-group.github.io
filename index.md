@@ -14,6 +14,9 @@ _coming soon.._
 ## People
 * Jared Stokes
 * Savannah Grunden
+* Max Cheng
+* Charlotte Mehaffey
+* Bo Yeong Won
 
 ## Location
 Center for Mind and Brain
